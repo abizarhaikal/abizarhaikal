@@ -4,6 +4,12 @@
 - 🌱 I'm currently learning more about creating android apps.
 - 😆 I am now a laboratory assistant in informatics engineering.
 - 📫 How to contact me: [LinkdIn](https://www.linkedin.com/in/haikal-abizar-6689a722b/)
+    <p align="left">
+    <a href="https://github.com/abizarhaikal">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abizarhaikal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abizarhaikal&layout=compact&theme=algolia"/>
+    </a>
+    </p>
 <!--
 **abizarhaikal/abizarhaikal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
