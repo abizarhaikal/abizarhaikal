@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I am currently an undergraduate student majoring in informatics engineering
+- 🌱 I'm currently learning more about creating android apps.
+- 😆 I am now a laboratory assistant in informatics engineering.
+- 📫 How to contact me: [LinkdIn](https://www.linkedin.com/in/haikal-abizar-6689a722b/)
 <!--
 **abizarhaikal/abizarhaikal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
